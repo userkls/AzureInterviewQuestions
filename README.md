@@ -16,3 +16,4 @@ yes, we can attach nic when VM is in stopped state, but we can not attach nic wh
 "C:\Users\sanja\Videos\Screen Recordings\powershell installation.mp4"
 
 
+
