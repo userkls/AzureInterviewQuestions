@@ -11,3 +11,8 @@ yes, we can attach nic when VM is in stopped state, but we can not attach nic wh
 
 ## 4. while attaching a new NIC , we need to create a nic in a same vnet,subnet, region, and resource group should be the same as VM
 
+### 5. Poweshell installation
+
+"C:\Users\sanja\Videos\Screen Recordings\powershell installation.mp4"
+
+
