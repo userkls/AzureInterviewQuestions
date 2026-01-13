@@ -6,6 +6,9 @@ Azure Realtime interview questions with screenshot
 2. how to connect to linux VM?
 <img width="1882" height="822" alt="image" src="https://github.com/user-attachments/assets/ff02e212-3662-420b-89b6-13b5ec3bed9b" />
 
+<img width="1852" height="861" alt="image" src="https://github.com/user-attachments/assets/a33cc7a4-1211-40ce-81fb-ee13b62a47f1" />
+
+
 ## 3 can we able to attach network interface when VM is in stopped state?
 yes, we can attach nic when VM is in stopped state, but we can not attach nic when VM is running.
 
