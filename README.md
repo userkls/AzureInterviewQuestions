@@ -21,6 +21,13 @@ yes, we can attach nic when VM is in stopped state, but we can not attach nic wh
 ## adding agent to agentpool
 <img width="1685" height="655" alt="image" src="https://github.com/user-attachments/assets/fda54991-7724-4489-8f0d-68b63f928276" />
 
+##creating new pipeline, using azure registry
+<img width="1871" height="910" alt="image" src="https://github.com/user-attachments/assets/6029f204-7fbd-4d69-98b6-855794d11611" />
+
+<img width="1892" height="855" alt="image" src="https://github.com/user-attachments/assets/db5677f0-0bc5-4ef4-8f6f-e93f21d2793a" />
+
+
+
 
 
 
